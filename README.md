@@ -19,7 +19,7 @@ _Crea flujos de trabajo que te permitan utilizar Integración Continua (CI) para
   Define los términos y enlaza a docs.github.com.
 -->
 
-## Paso 5: Fusiona tu pull request
+## Paso 5: Fusiona tu pull request!
 
 _¡Casi estamos allí! :heart:_
 
